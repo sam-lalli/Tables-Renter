@@ -15,7 +15,7 @@
     },
     {
       "name": "About",
-      "href": "about"
+      "href": "features"
     }
   ],
   "callToAction": {
@@ -26,7 +26,7 @@
     "title": "The days of running to the church",
     "subtitle": "are over",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/heroBanner.jpg",
+    "img": "/assets/images/churchChair3.jpg",
     "secondaryAction": {
       "text": "Book Now",
       "href": "https://calendly.com/notyourchurchestables/tables-and-chair-rentals"
@@ -53,25 +53,25 @@
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "items": [
       {
-        "name": "React.js",
+        "name": "Quick Delivery",
         "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
         "icon": "/assets/images/icons8-running.gif",
         "sicon": "/assets/images/icons8-running.png"
       },
       {
-        "name": "Tailwind",
+        "name": "Easy Agreement",
         "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
         "icon": "/assets/images/icons8-handshake.gif",
         "sicon": "/assets/images/icons8-handshake.png"
       },
       {
-        "name": "Next.js",
+        "name": "Time Saver",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
         "icon": "/assets/images/icons8-clock.gif",
         "sicon": "/assets/images/icons8-clock.png"
       },
       {
-        "name": "Typescript",
+        "name": "Worry Free",
         "description": "TypeScript is a programming language developed and maintained by Microsoft.",
         "icon": "/assets/images/icons8-check.gif",
         "sicon": "/assets/images/icons8-check.png"
@@ -109,7 +109,18 @@
         "price": "$8",
         "priceDetails": "per table/day",
         "features": [
-          "70in Round tables",
+          "72in Round tables",
+          "Seats 8-10 comfortably",
+          "Model 2673G",
+          "Max quantity 12"
+        ]
+      },
+      {
+        "name": "Extras",
+        "price": "$8-$12",
+        "priceDetails": "",
+        "features": [
+          "Tables Cloths",
           "Seats 8-10 comfortably",
           "Model 2673G",
           "Max quantity 12"
