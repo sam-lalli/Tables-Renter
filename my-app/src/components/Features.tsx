@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import config from '../config/index.json';
 
 const Features = () => {
