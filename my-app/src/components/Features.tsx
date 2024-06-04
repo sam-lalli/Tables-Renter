@@ -23,7 +23,7 @@ const Features = () => {
 
         <div className="mt-10">
           <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
-            {featuresList.map((feature, index: any) => (
+            {featuresList.map((feature) => (
               <div key={feature.name} className="relative">
                 <dt>
                   <div
