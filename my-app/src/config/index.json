@@ -25,7 +25,7 @@
   "mainHero": {
     "title": "The days of running to the church",
     "subtitle": "are over",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "Since the great awakening, we have needed a hero. Someone to save us from running to our local church for our table and chair needs. The condition or quality of these items, unknown. Who was the last to use them? You will never know.",
     "img": "/assets/images/churchChair3.jpg",
     "secondaryAction": {
       "text": "Book Now",
@@ -37,12 +37,12 @@
     "items": [
       {
         "title": "An easier way for table rental",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "description": "Imagine planning an event knowning the little things like tables and chairs are taken care of. Simply snap your fingers for exactly what you need, quality you can trust from the most reliable source.",
         "img": "/assets/images/tables.jpeg"
       },
       {
         "title": "Drop off and pick up made easy",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "description": "No need to ask your neighbor for thier truck. With our simple drop off and pickup times you don't need to move a muscle. No room for our trailer, with an additional fee it will be like they came out of thin air",
         "img": "/assets/images/trailer.jpeg"
       }
     ]
@@ -50,29 +50,29 @@
   "features": {
     "title": "Chair and Table rental reimaged ",
     "subtitle": "What makes us different",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "Locally run and reliable we are here to solve one of life's greatest issues. Where do I get the table and chairs for my event? Wedding, family reunion, block party, you name it. We'll be there!",
     "items": [
       {
         "name": "Quick Delivery",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "description": "Servicing anywhere along the wasatch front as soon as next day.",
         "icon": "/assets/images/icons8-running.gif",
         "sicon": "/assets/images/icons8-running.png"
       },
       {
         "name": "Easy Agreement",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "description": "Just tell us what you need, when you need it. Full control of your event",
         "icon": "/assets/images/icons8-handshake.gif",
         "sicon": "/assets/images/icons8-handshake.png"
       },
       {
         "name": "Time Saver",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "description": "No need to ask the neighbor for their truck. No need to scramble to the chruch for those table and chairs",
         "icon": "/assets/images/icons8-clock.gif",
         "sicon": "/assets/images/icons8-clock.png"
       },
       {
         "name": "Worry Free",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "description": "Let us take the worry of the little things so you can focus on the big picture",
         "icon": "/assets/images/icons8-check.gif",
         "sicon": "/assets/images/icons8-check.png"
       }
@@ -98,10 +98,10 @@
         "priceDetails": "per event",
 
         "features": [
-          "Great Idea",
-          "Another one",
-          "Give me more",
-          "4th one"
+          "Weddings",
+          "Family reunions",
+          "Farewell / Homecoming",
+          "Baby shower"
         ]
       },
       {
